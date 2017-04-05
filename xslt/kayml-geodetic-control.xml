@@ -1,9 +1,9 @@
 <transform>
   <sourceFormat>text/xml; subtype=gml/2.1.2</sourceFormat>
-  <outputFormat>KAYML_geodetic</outputFormat>
+  <outputFormat>kayml-geodetic-control</outputFormat>
   <outputMimeType>application/vnd.google-earth.kml+xml</outputMimeType>
   <fileExtension>kml</fileExtension>
-  <xslt>KAYML_geodetic.xslt</xslt>
+  <xslt>kayml-geodetic-control.xslt</xslt>
   <featureType>
     <id>pub:WHSE_REFERENCE.MASCOT_GEODETIC_CONTROL</id>
   </featureType>
