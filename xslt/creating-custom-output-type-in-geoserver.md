@@ -22,7 +22,8 @@ Creating a custom output type in GeoServer using XSLT
  
  6. Given a feature class called WHSE_REFERENCE.MASCOT_GEODETIC_CONTROL, the custom output type declaration file is named kayml-geodetic-control.xml and has the following contents:
 
-  <transform>
+ ```html
+ <transform>
      <sourceFormat>text/xml; subtype=gml/2.1.2</sourceFormat>
      <outputFormat>kayml-geodetic-control</outputFormat>
      <outputMimeType>application/vnd.google-earth.kml+xml</outputMimeType>
@@ -32,10 +33,11 @@ Creating a custom output type in GeoServer using XSLT
        <id>pub:WHSE_REFERENCE.MASCOT_GEODETIC_CONTROL</id>
      </featureType>
    </transform>     
-    
+ ```   
   
  6. Here is the custom output type transformation file named kayml-geodetic-control.xslt:
  
+ ```
  <?xml version="1.0" encoding="iso-8859-1"?>
 <xsl:stylesheet version="1.0" xmlns:pub="http://openmaps.gov.bc.ca/geo/"
 xmlns:gml="http://www.opengis.net/gml" xmlns:atom="http://www.w3.org/2005/Atom"
@@ -320,6 +322,7 @@ xmlns:wfs="http://www.opengis.net/wfs" xmlns:xsl="http://www.w3.org/1999/XSL/Tra
     </kml>
   </xsl:template>
 </xsl:stylesheet>
+```
  
     
 
