@@ -16,7 +16,7 @@ Creating a custom output type for the DataBC GeoServer using XSLT
 
  A custom output type declaration file should be named <formatName><featureClass>.xml (e.g., kayml-geodetic-control.xml)
     where <formatName> is "kayml-"
-      and <featureClass> is a meaningful contraction of the featureClass name in the BC Geographical Wherehouse
+      and <featureClass> is a meaningful contraction of the featureClass name in the BC Geographical WhereHouse
     
  A custom output transformation file should be named <formatName><featureClass>.xslt (e.g., kayml-geodetic-control.xslt)
  
