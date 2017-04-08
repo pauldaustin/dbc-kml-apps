@@ -1,11 +1,7 @@
 # dbc-kml-apps
 DataBC KML Applications and Templates
 
-There is a handy CSV file in dbc
-
-
-
-
+[Here](https://github.com/bcgov/dbc-kml-apps/blob/master/mapserver/templates/kml_template_layer_classification.csv) is a handy table for understanding the layers in existing mapserver templates.
 
 Creating a custom output type for the DataBC GeoServer using XSLT
 ------------------------------------------------------------------
