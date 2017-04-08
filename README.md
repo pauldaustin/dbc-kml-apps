@@ -1,10 +1,17 @@
 # dbc-kml-apps
 DataBC KML Applications and Templates
 
-Creating a custom output type for the DataBC GeoServer using XSLT
------------------------------------------------------
+There is a handy CSV file in dbc
 
- To create a custom output type in GeoServer using XSLT, you need to define two files:
+
+
+
+
+Creating a custom output type for the DataBC GeoServer using XSLT
+------------------------------------------------------------------
+
+The need for creating cutstom output type is stil unclear. If they are needed, this is how its done.
+To create a custom output type in GeoServer using XSLT, you need to define two files:
 
      a. A custom output type declaration file
 
