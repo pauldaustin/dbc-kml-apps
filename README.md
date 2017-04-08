@@ -1,6 +1,8 @@
 # dbc-kml-apps
 DataBC KML Applications and Templates
 
+The purpose of this repo is to migrate existing mapserver kml application and templates to geoserver and house the result.
+
 [Here](https://github.com/bcgov/dbc-kml-apps/blob/master/mapserver/templates/kml_template_layer_classification.csv) is a handy table for understanding the layers in existing mapserver templates.
 
 Creating a custom output type for the DataBC GeoServer using XSLT
