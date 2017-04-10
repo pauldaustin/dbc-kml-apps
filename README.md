@@ -34,5 +34,4 @@ To create a custom output type in GeoServer using XSLT, you need to define two f
  
  Given a feature class called WHSE_REFERENCE.MASCOT_GEODETIC_CONTROL, the custom output type declaration file is named [kayml_geodetic_control.xml](https://github.com/mraross/dbc-kml-apps/blob/master/geoserver/geodetic_control/kayml_geodetic_control.xml)
   
- The custom output type transformation file for this feature class is called [kayml_geodetic_control.xslt](https://github.com/mraross/dbc-kml-apps/blob/master/geoserver/geodetic_control//kayml_geodetic_control.xslt)
- 
+ The custom output type transformation file for this feature class is called [kayml_geodetic_control.xslt](https://github.com/mraross/dbc-kml-apps/blob/master/geoserver/geodetic_control/kayml_geodetic_control.xslt)
