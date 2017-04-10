@@ -2,9 +2,17 @@
 DataBC KML Applications and Templates
 
 The purpose of this repo is to convert existing mapserver kml applications and templates to use geoserver and house the results.
+
+
 dbc-kml-apps/apps is for converted kml apps
+
+
 dbc-kml-apps/apps/icons is for custom icons organized by kml app
+
+
 dbc-kml-apps/geoserver is for geoserver ftl templates, named sld's, and xslts grouped by data source
+
+
 dbc-kml-mapserver/kml holds the original kml apps that need to be converted
 
 [Here](https://github.com/bcgov/dbc-kml-apps/blob/master/mapserver/templates/kml_template_layer_classification.csv) is a handy table for understanding the layers in existing mapserver templates.
