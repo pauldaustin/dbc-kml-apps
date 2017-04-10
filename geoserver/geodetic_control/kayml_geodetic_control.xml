@@ -3,7 +3,7 @@
   <outputFormat>kayml_geodetic_control</outputFormat>
   <outputMimeType>application/vnd.google-earth.kml+xml</outputMimeType>
   <fileExtension>kml</fileExtension>
-  <xslt>kayml_geodetic-control.xslt</xslt>
+  <xslt>kayml_geodetic_control.xslt</xslt>
   <featureType>
     <id>pub:WHSE_REFERENCE.MASCOT_GEODETIC_CONTROL</id>
   </featureType>
