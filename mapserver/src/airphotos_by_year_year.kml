@@ -33,7 +33,7 @@
             </ListStyle>
           </Style>
           <Link>
-            <href>##WMS_SERVICE_URL##?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_##PHOTO_YEAR##&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;</href>
+            <href>##WMS_SERVICE_URL##?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_##PHOTO_YEAR##&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:50;MODE:refresh;SUPEROVERLAY:false&amp;</href>
             <viewRefreshMode>onStop</viewRefreshMode>
             <viewRefreshTime>2</viewRefreshTime>
             <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
