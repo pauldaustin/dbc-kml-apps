@@ -25,7 +25,7 @@
             <td>${FILM_ROLL.value}/${FRAME_NUMBER.value}</td>
           </tr>
           <tr>
-            <th>Date/Time:</th>
+            <th>Date/Time</th>
             <td>${PHOTO_DATE.value} ${PHOTO_TIME.value}</td>
           </tr>
           <tr>
@@ -37,11 +37,11 @@
             <td>${FOCAL_LENGTH.value}</td>
           </tr>
           <tr>
-            <th>Media:</th>
+            <th>Media</th>
             <td>${MEDIA.value}</td>
           </tr>
           <tr>
-            <th>Nominal Scale:</th>
+            <th>Nominal Scale</th>
             <td>${SCALE.value}</td>
           </tr>
           <tr>
