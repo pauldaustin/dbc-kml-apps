@@ -7,7 +7,6 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.opengis.net/kml/2.2 ogckml22.xsd"
 >
-
   <Folder>
     <name>View and Order Air Photos by Year</name>
     <visibility>1</visibility>

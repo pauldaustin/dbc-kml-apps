@@ -5,7 +5,7 @@ cat airphotos_by_year_header.kml > ../kml/airphotos_by_year.kml
 
 let CURRENT_YEAR=`date +"%Y"`
 let CURRENT_YEAR=2016
-let FIRST_YEAR=1992
+let FIRST_YEAR=1963
 let year=CURRENT_YEAR
 
 let currentDecade=(CURRENT_YEAR/10)*10
@@ -23,7 +23,7 @@ while ((year>=FIRST_YEAR)); do
   fi
   let decade=(year/10)*10
   let decadeTo=decade+9
-  echo $year $decade $decadeTo
+  echo $year
   if [ $year -eq $decadeTo ]; then
     let decadeVisible=0
     if [ $decade -eq $currentDecade ]; then
