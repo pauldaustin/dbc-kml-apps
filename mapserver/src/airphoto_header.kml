@@ -9,7 +9,7 @@
 >
 
   <Folder>
-    <name>BC Airphoto Viewer</name>
+    <name>BC Air Photo Viewer</name>
     <visibility>1</visibility>
     <open>1</open>
     <LookAt>
@@ -27,7 +27,7 @@
       <name>Help</name>
       <open>1</open>
       <Link>
-        <href>##application.url##/thumbs/kmlviewer_help/airphoto_help.kml</href>
+        <href>https://openmaps.gov.bc.ca/thumbs/kmlviewer_help/airphoto_help.kml</href>
       </Link>
     </NetworkLink>
 
