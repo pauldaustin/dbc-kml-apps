@@ -86,7 +86,7 @@
               <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
             </LookAt>
             <Icon>
-              <href>##WMS_SERVICE_URL##?REQUEST=GetMap&amp;SERVICE=WMS&amp;VERSION=1.1.1&amp;LAYERS=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_FLIGHTLINES_SP&amp;STYLES=Airborne_Imagery_Air_Photo_Flightlines_##PHOTO_YEAR##&amp;FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;SRS=EPSG:4326&amp; </href>
+              <href>##WMS_SERVICE_URL##?REQUEST=GetMap&amp;SERVICE=WMS&amp;VERSION=1.1.1&amp;LAYERS=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_FLIGHTLINES_SP&amp;STYLES=&amp;cql_filter=PHOTO_YEAR=##PHOTO_YEAR##&amp;FORMAT=image/png&amp;TRANSPARENT=TRUE&amp;SRS=EPSG:4326&amp; </href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
