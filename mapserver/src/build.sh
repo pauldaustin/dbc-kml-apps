@@ -1,10 +1,9 @@
 #!/bin/bash
 cd `dirname $0`
 
-
-let CURRENT_YEAR=`date +"%Y"`
 let CURRENT_YEAR=2016
 let FIRST_YEAR=1963
+
 let year=CURRENT_YEAR
 outFile=../kml/BCGov_Airphoto_Viewer_WMS.kml
 let currentDecade=(CURRENT_YEAR/10)*10
@@ -44,7 +43,7 @@ while ((year>=FIRST_YEAR)); do
         airphoto_decade_header.kml >> $file
     fi
     sed \
-      -e "s|##WMS_SERVICE_URL##|http://test.openmaps.gov.bc.ca/geo/pub/wms|" \
+      -e "s|##WMS_SERVICE_URL##|https://openmaps.gov.bc.ca/geo/pub/wms|" \
       -e "s/##PHOTO_YEAR##/$year/" \
       -e "s/##YEAR_VISIBLE##/$yearVisible/" \
       airphoto_year.kml >> $file
