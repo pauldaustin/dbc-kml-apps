@@ -56,8 +56,8 @@ Please see page five for contact information:
 		</Link>
 	</NetworkLink>
     	<NetworkLink xsi:schemaLocation="http://www.opengis.net/kml/2.2 ogckml22.xsd">
-		<name>Airphotos</name>
-		<description>displayable, printable, low-resolution airphotos, their photo centres, and their associated flight lines</description>
+		<name>Air Photos</name>
+		<description>displayable, printable, low-resolution air photos, their photo centres, and their associated flight lines</description>
 		<visibility>0</visibility>
 		<LookAt>
 			<longitude>-125.790485103603</longitude>

@@ -4,7 +4,12 @@
   </head>
   <body>
     <div class="pull-left">
+<#if THUMBNAIL_IMAGE_URL.value>
       <div><a href="${THUMBNAIL_IMAGE_URL.value}" target="_blank"><img src="${THUMBNAIL_IMAGE_URL.value}" width="120" border="4"/></a></div>
+</#if>
+<#if !THUMBNAIL_IMAGE_URL.value>
+      <div class="alert alert-warning" style="width:120px;font-weight:700;font-size:1.1em;text-align:center">No preview available for this photo</div>
+</#if>
       <div style="padding-top: 0.8em">
         <form method="get" action="https://apps.gov.bc.ca/ext/mtec/cart/addProducts.do" target="_blank">
         <input name="itemIndex" type="hidden" value="1" />
@@ -25,7 +30,7 @@
             <td>${FILM_ROLL.value}/${FRAME_NUMBER.value}</td>
           </tr>
           <tr>
-            <th>Date/Time:</th>
+            <th>Date/Time</th>
             <td>${PHOTO_DATE.value} ${PHOTO_TIME.value}</td>
           </tr>
           <tr>
@@ -37,11 +42,11 @@
             <td>${FOCAL_LENGTH.value}</td>
           </tr>
           <tr>
-            <th>Media:</th>
+            <th>Media</th>
             <td>${MEDIA.value}</td>
           </tr>
           <tr>
-            <th>Nominal Scale:</th>
+            <th>Nominal Scale</th>
             <td>${SCALE.value}</td>
           </tr>
           <tr>

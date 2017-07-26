@@ -43,3 +43,16 @@ To create a custom output type in GeoServer using XSLT, you need to define two f
  Given a feature class called WHSE_REFERENCE.MASCOT_GEODETIC_CONTROL, the custom output type declaration file is named [kayml_geodetic_control.xml](https://github.com/bcgov/dbc-kml-apps/blob/master/geoserver/geodetic_control/kayml_geodetic_control.xml)
   
  The custom output type transformation file for this feature class is called [kayml_geodetic_control.xslt](https://github.com/bcgov/dbc-kml-apps/blob/master/geoserver/geodetic_control/kayml_geodetic_control.xslt)
+ 
+## Build Air Photo Viewers
+
+Each year the air photo viewer must be updated to add that year to the list of years.
+
+1. Create a new git branch.
+2. Edit mapserver/src/build.sh
+3. Change the line 'let CURRENT_YEAR=2016' to the most recent year.
+4. If new older photography is available change the line 'let FIRST_YEAR=1963' to the oldest year.
+5. Save the file.
+6. On a unix based system on in cygwin run ./mapserver/src/build.sh
+7. Commit the changes to git and create a pull request for the branch to master.
+
