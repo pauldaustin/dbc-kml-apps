@@ -103,7 +103,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2016&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2016&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -195,7 +195,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2015&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2015&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -287,7 +287,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2014&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2014&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -379,7 +379,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2013&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2013&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -471,7 +471,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2012&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2012&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -563,7 +563,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2011&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2011&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -655,7 +655,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2010&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2010&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -770,7 +770,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2009&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2009&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -862,7 +862,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2008&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2008&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -954,7 +954,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2007&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2007&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1046,7 +1046,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2006&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2006&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1138,7 +1138,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2005&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2005&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1230,7 +1230,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2004&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2004&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1322,7 +1322,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2003&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2003&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1414,7 +1414,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2002&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2002&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1506,7 +1506,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2001&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2001&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1598,7 +1598,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2000&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_2000&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1713,7 +1713,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1999&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1999&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1805,7 +1805,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1998&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1998&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1897,7 +1897,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1997&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1997&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -1989,7 +1989,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1996&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1996&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2081,7 +2081,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1995&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1995&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2173,7 +2173,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1994&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1994&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2265,7 +2265,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1993&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1993&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2357,7 +2357,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1992&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1992&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2449,7 +2449,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1991&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1991&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2541,7 +2541,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1990&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1990&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2656,7 +2656,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1989&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1989&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2748,7 +2748,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1988&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1988&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2840,7 +2840,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1987&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1987&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -2932,7 +2932,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1986&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1986&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3024,7 +3024,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1985&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1985&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3116,7 +3116,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1984&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1984&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3208,7 +3208,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1983&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1983&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3300,7 +3300,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1982&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1982&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3392,7 +3392,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1981&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1981&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3484,7 +3484,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1980&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1980&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3599,7 +3599,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1979&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1979&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3691,7 +3691,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1978&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1978&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3783,7 +3783,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1977&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1977&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3875,7 +3875,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1976&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1976&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -3967,7 +3967,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1975&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1975&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4059,7 +4059,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1974&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1974&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4151,7 +4151,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1973&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1973&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4243,7 +4243,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1972&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1972&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4335,7 +4335,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1971&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1971&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4427,7 +4427,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1970&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1970&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4542,7 +4542,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1969&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1969&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4634,7 +4634,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1968&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1968&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4726,7 +4726,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1967&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1967&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4818,7 +4818,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1966&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1966&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -4910,7 +4910,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1965&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1965&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -5002,7 +5002,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1964&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1964&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
@@ -5094,7 +5094,7 @@
               </ListStyle>
             </Style>
             <Link>
-              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1963&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=1000</href>
+              <href>https://openmaps.gov.bc.ca/geo/pub/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=pub:WHSE_IMAGERY_AND_BASE_MAPS.AIMG_PHOTO_CENTROIDS_SP&amp;styles=Airborne_Imagery_Air_Photo_Centres_1963&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:true;KMSCORE:100;MODE:refresh;SUPEROVERLAY:false&amp;maxFeatures=200</href>
               <viewRefreshMode>onStop</viewRefreshMode>
               <viewRefreshTime>2</viewRefreshTime>
               <viewFormat>bbox=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth]&amp;WIDTH=[horizPixels]&amp;HEIGHT=[vertPixels]</viewFormat>
